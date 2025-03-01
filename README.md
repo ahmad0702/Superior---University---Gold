@@ -1,17 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Ai Engineer from Pakistan</h3>
+<h1 align="center">Hi, I'm Muhammad Ahmad 👋</h1>
 
-- 🔭 I’m currently working on **Breast Cancer**
-
-- 🌱 I’m currently learning **Flask, SQL**
-
-- 👯 I’m looking to collaborate on **Microsoft**
-
-- 🤝 I’m looking for help with **Dev Ops**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=20B2AA&center=true&width=500&lines=Unlocking+AI+Potential+IN+BSAI;Python+Developer;Flask+Specialist;ML+Model+Trainer;Data+Vistualizer;Graphics+Designer;Video+Editor!">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center"> 🚀 About Me </h3>
+<p align="center">
+I’m a passionate Ai Engineer with a focus on Machine Learning, Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
+</p>
+
+---
+
+<h3 align="center"> 🔥 Highlights </h3>
+
+- 💻 **Experienced Machine Learning Engineer** with a focus on real-time AI solutions
+---
+
+<h3 align="center"> 🚀 Skills & Technologies </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,html,css,flask,github,php,linux,vscode,git" alt="skills" />
+</p>
+
+---
+
+<h3 align="center"> 📊 GitHub Stats </h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmad0702&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad0702&layout=compact&hide_border=true&theme=algolia" />
+</p>
+
+---
+
+<h3 align="center"> 🏆 Trophies & Achievements </h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmad0702&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+<h3 align="center"> 🔧 Tools I Use </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,ps,ai,blender" alt="tools" />
+</p>
+
+---
+<h3 align="center"> 🌐 Let's Connect! </h3>
+  <a href="https://www.linkedin.com/in/ahmad0702/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ahmad0702" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ahmadashraf0702@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- ---
+
+<!-- <h3 align="center"> 📈 Weekly Development Breakdown </h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad0702&color=blue&style=flat-square" alt="Profile Views" />
+</p>
