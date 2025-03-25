@@ -1,0 +1,196 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Beautiful Sky Gradient Background */
+body {
+    background: linear-gradient(135deg, #6dd5fa, #2980b9);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Animated Clouds */
+body::before, body::after {
+    content: "";
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    top: 10%;
+    left: 20%;
+    animation: floatClouds 6s infinite alternate ease-in-out;
+}
+
+body::after {
+    top: 50%;
+    left: 70%;
+    width: 250px;
+    height: 120px;
+    animation-delay: 3s;
+}
+
+/* Container */
+.container {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 30px;
+    border-radius: 12px;
+    backdrop-filter: blur(15px);
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 400px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Heading */
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+/* Input Form */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input[type="text"] {
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+
+/* Button */
+button {
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #ffcc00;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+    background: #ffdb4d;
+    transform: scale(1.08);
+}
+
+/* Weather Card */
+.weather-card {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    animation: slideIn 1s ease-in-out;
+}
+
+.weather-card h2 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.weather-card img {
+    width: 80px;
+    margin: 10px 0;
+}
+
+.temp {
+    font-size: 28px;
+    font-weight: 600;
+    animation: pop 0.8s ease-in-out;
+}
+
+.desc {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* Error Message */
+.error {
+    margin-top: 20px;
+    color: #ff4d4d;
+    font-size: 18px;
+    animation: shake 0.3s ease-in-out;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pop {
+    0% { transform: scale(0.8); }
+    100% { transform: scale(1); }
+}
+
+@keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-5px); }
+    50% { transform: translateX(5px); }
+    75% { transform: translateX(-5px); }
+    100% { transform: translateX(0); }
+}
+
+@keyframes floatClouds {
+    from {
+        transform: translateX(0px);
+    }
+    to {
+        transform: translateX(20px);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 500px) {
+    .container {
+        padding: 20px;
+    }
+}
